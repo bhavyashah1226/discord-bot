@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone_number,date_of_birth,invalid_status
+1,John,Doe,123456789,0123456789,1980-05-15,in
+2,Jane,Doe,testmail.com,9876543211,1985-07-20,valid
+3,,Smith,johnsmith@mail.com,1122334455,1990-01-10,in
+4,Emma,Johnson,number567@mail.com,678901234,1995-10-30,out
+5,Robert,Brown,robertbrown@mail.com,334455667788,1993-02-05,
+6,Oliver,Williams,3333333333,,1997-12-15,valid
+7,James,,8910111213@number.com,,2000-08-30,out
+8,Mia,Thomas,miathomas@mail.com,9765432101,1991-03-25,in
+9,Sophia,Jackson,,9045236871,1983-09-10,out
+10,Ethan,Evans,ethanevans@mail.com,,1988-11-15,valid

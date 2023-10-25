@@ -1,0 +1,6 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,johndoe,John,Doe,johndoe@example.com,Password123,1234567890,1
+2,janesmith,Jane,Smith,janesmith@example.com,Password456,0987654321,1
+3,robertbrown,Robert,Brown,robertbrown@example.com,Password789,2345678901,1
+4,lisawhite,Lisa,White,lisawhite@example.com,Password321,3456789012,1
+5,michaelgreen,Michael,Green,michaelgreen@example.com,Password654,5678901234,1

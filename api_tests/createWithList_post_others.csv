@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+457,mark49,Mark,Smith,null,password22,null,1
+91252,john_doe,John,Doe,2352893,johnDoe12345,1-300-976-1235,0
+645,mike45,David,Johnson,123n456,john123son,@,0
+55,katemoss,Kate,Moss,katemoss23@domain.com,passMoss23,12-345-678-910,1
+92,,Phil,Lewis,phillewis@domain.com,phil123,phone47,0
+663,annawang34,Anna,null,annawang@mail.com,anna34,1-647-937-547,1
+34290,michael90,Michael,,michael23@gmail.com,michael90pass,,0
+34,alice33,Alice,Doe,alice@doe.com,null,1-888-555-0000,1
+843,nick27,Nick,Williams,nick27@domain.com,nickPassword,,0
+,robert_gold,Robert,Gold,robert.gold@(,robertGold@123,null,0

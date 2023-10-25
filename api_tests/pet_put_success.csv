@@ -1,0 +1,11 @@
+id,name,photoUrls,tags,status
+64521,Fluffy,http://example.com/dog1.jpg,friendly,available
+38492,Max,http://example.com/dog2.jpg,quiet,sold
+84920,Luna,http://example.com/dog3.jpg,lively,pending
+64031,Rocco,http://example.com/dog4.jpg,stubborn,available
+83927,Bella,http://example.com/dog5.jpg,playful,sold
+28396,Daisy,http://example.com/dog6.jpg,curious,pending
+19384,Buddy,http://example.com/dog7.jpg,loud,available
+64280,Molly,http://example.com/dog8.jpg,affectionate,sold
+84791,Lola,http://example.com/dog9.jpg,energetic,pending
+19328,Lucky,http://example.com/dog10.jpg,lazy,available
