@@ -1,0 +1,6 @@
+username,id,firstName,lastName,email,password,phone,userStatus
+johndoe1,2351,John,Doe,johndoe1@test.com,pass1234,1234567890,1
+janesmith53,7365,Jane,Smith,janesmith53@test.com,pass5678,0987654321,2
+mikeross17,4826,Mike,Ross,mikeross17@test.com,pass9123,5678901234,1
+rachelgreen90,5291,Rachel,Green,rachelgreen90@test.com,pass4567,9012345678,2
+chandlerbing25,1789,Chandler,Bing,chandlerbing25@test.com,pass8912,2345678901,1

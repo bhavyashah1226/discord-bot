@@ -1,0 +1,10 @@
+id,name,photoUrls,status,category_id,category_name,tag_id,tag_name
+1234,Doggy,https://example.com/dog_photo1.jpg,available,1,Pets,10,Dogs
+4567,Kitty,https://example.com/cat_photo1.jpg,pending,2,Cats,20,Felines
+3456,Parrot,https://example.com/parrot_photo1.jpg,sold,3,Birds,30,Parrots
+7890,Goldfish,https://example.com/fish_photo1.jpg,available,4,Fish,40,Aquarium
+2345,Puppy,https://example.com/puppy_photo1.jpg,pending,1,Pets,10,Dogs
+6789,Kitten,https://example.com/kitten_photo1.jpg,sold,2,Cats,20,Felines
+7891,Canary,https://example.com/canary_photo1.jpg,available,3,Birds,30,Canaries
+5678,Betta,https://example.com/betta_photo1.jpg,pending,4,Fish,40,Aquarium
+9087,Hamster,https://example.com/hamster_photo1.jpg,sold,5,Small Animals,50,Rodents

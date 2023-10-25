@@ -1,0 +1,11 @@
+id,category_id,category_name,name,photoUrls,tag_id,tag_name,status
+3156,18,Animals,Bandit,http://example.com/pic1.jpg,27,Dog,available
+2876,,Birds,Polly,http://example.com/pic2.jpg,58,Bird,available
+2385,43,Mammals,,http://example.com/pic3.jpg,12,Cat,pending
+9583,29,Reptiles,Slither,http://example.com/pic4.jpg,,Lizard,sold
+,49,Amphibians,Froggy,http://example.com/pic5.jpg,85,Frog,available
+184538,18,Insects,Buzz,http://example.com/pic6.jpg,408,Bee,pending
+235,12,Aquatics,Finny,http://example.com/pic7.jpg,85,Fish,sold
+96584,39,Arachnids,Spidey,http://example.com/pic8.jpg,4024,Spider,available
+368,,Rodents,Squeak,http://example.com/pic9.jpg,58,Mouse,pending
+1245,96,Dinosaurs,Dino,http://example.com/pic10.jpg,,Dinosaur,sold
